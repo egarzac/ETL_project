@@ -1,0 +1,22 @@
+-- NFL
+drop table nflresults
+
+CREATE TABLE nflresults (
+    id VARCHAR NOT NULL PRIMARY KEY,
+    Visitor varchar NOT NULL,
+    visitor_score INT NOT NULL,
+    Home varchar NOT NULL,
+    home_score INT NOT NULL,
+    season INT NOT NULL,
+    week INT NOT NULL,
+	wins_visitor INT NOT NULL,
+	wins_local INT NOT NULL,
+	winner varchar NOT NULL,
+	favorite varchar NOT NULL,
+	underdog_win varchar NOT NULL, 
+	division_visitor varchar NOT NULL, 
+	division_home varchar NOT NULL,
+	interdivision varchar NOT NULL
+);
+
+SELECT * FROM nflresults

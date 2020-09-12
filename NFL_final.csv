@@ -1,0 +1,257 @@
+,Visitor,visitor_score,Home,home_score,season,week,wins_visitor,wins_local,winner,favorite,underdog_win,division_visitor,division_home,interdivision
+0,Green Bay PackersGB,10,Chicago BearsCHI,3,2019,1,0,0,Green Bay PackersGB,No Favorite,No Favorite,NFC North,NFC North,Yes
+1,Los Angeles RamsLA,30,Carolina PanthersCAR,27,2019,1,0,0,Los Angeles RamsLA,No Favorite,No Favorite,NFC West,NFC South,No
+2,Tennessee TitansTEN,43,Cleveland BrownsCLE,13,2019,1,0,0,Tennessee TitansTEN,No Favorite,No Favorite,AFC South,AFC North,No
+3,Kansas City ChiefsKC,40,Jacksonville JaguarsJAX,26,2019,1,0,0,Kansas City ChiefsKC,No Favorite,No Favorite,AFC West,AFC South,No
+4,Baltimore RavensBAL,59,Miami DolphinsMIA,10,2019,1,0,0,Baltimore RavensBAL,No Favorite,No Favorite,AFC North,AFC East,No
+5,Atlanta FalconsATL,12,Minnesota VikingsMIN,28,2019,1,0,0,Minnesota VikingsMIN,No Favorite,No Favorite,NFC South,NFC North,No
+6,Buffalo BillsBUF,17,New York JetsNYJ,16,2019,1,0,0,Buffalo BillsBUF,No Favorite,No Favorite,AFC East,AFC East,Yes
+7,Washington RedskinsWAS,27,Philadelphia EaglesPHI,32,2019,1,0,0,Philadelphia EaglesPHI,No Favorite,No Favorite,NFC East,NFC East,Yes
+8,Indianapolis ColtsIND,24,Los Angeles ChargersLAC,30,2019,1,0,0,Los Angeles ChargersLAC,No Favorite,No Favorite,AFC South,AFC West,No
+9,Cincinnati BengalsCIN,20,Seattle SeahawksSEA,21,2019,1,0,0,Seattle SeahawksSEA,No Favorite,No Favorite,AFC North,NFC West,No
+10,Detroit LionsDET,27,Arizona CardinalsARI,27,2019,1,0,0,Tie,No Favorite,No Favorite,NFC South,NFC West,No
+11,New York GiantsNYG,17,Dallas CowboysDAL,35,2019,1,0,0,Dallas CowboysDAL,No Favorite,No Favorite,NFC East,NFC East,Yes
+12,San Francisco 49ersSF,31,Tampa Bay BuccaneersTB,17,2019,1,0,0,San Francisco 49ersSF,No Favorite,No Favorite,NFC West,NFC South,No
+13,Pittsburgh SteelersPIT,3,New England PatriotsNE,33,2019,1,0,0,New England PatriotsNE,No Favorite,No Favorite,AFC North,AFC East,No
+14,Houston TexansHOU,28,New Orleans SaintsNO,30,2019,1,0,0,New Orleans SaintsNO,No Favorite,No Favorite,AFC South,NFC South,No
+15,Denver BroncosDEN,16,Oakland RaidersOAK,24,2019,1,0,0,Oakland RaidersOAK,No Favorite,No Favorite,AFC West,AFC West,Yes
+16,Tampa Bay BuccaneersTB,20,Carolina PanthersCAR,14,2019,2,0,0,Tampa Bay BuccaneersTB,No Favorite,No Favorite,NFC South,NFC South,Yes
+17,Arizona CardinalsARI,17,Baltimore RavensBAL,23,2019,2,0,1,Baltimore RavensBAL,Baltimore RavensBAL,No,NFC West,AFC North,No
+18,San Francisco 49ersSF,41,Cincinnati BengalsCIN,17,2019,2,1,0,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,AFC North,No
+19,Los Angeles ChargersLAC,10,Detroit LionsDET,13,2019,2,1,0,Detroit LionsDET,Los Angeles ChargersLAC,Yes,AFC West,NFC South,No
+20,Minnesota VikingsMIN,16,Green Bay PackersGB,21,2019,2,1,1,Green Bay PackersGB,No Favorite,No Favorite,NFC North,NFC North,Yes
+21,Jacksonville JaguarsJAX,12,Houston TexansHOU,13,2019,2,0,0,Houston TexansHOU,No Favorite,No Favorite,AFC South,AFC South,Yes
+22,New England PatriotsNE,43,Miami DolphinsMIA,0,2019,2,1,0,New England PatriotsNE,New England PatriotsNE,No,AFC East,AFC East,Yes
+23,Buffalo BillsBUF,28,New York GiantsNYG,14,2019,2,1,0,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC East,NFC East,No
+24,Seattle SeahawksSEA,28,Pittsburgh SteelersPIT,26,2019,2,1,0,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC West,AFC North,No
+25,Indianapolis ColtsIND,19,Tennessee TitansTEN,17,2019,2,0,1,Indianapolis ColtsIND,Tennessee TitansTEN,Yes,AFC South,AFC South,Yes
+26,Dallas CowboysDAL,31,Washington RedskinsWAS,21,2019,2,1,0,Dallas CowboysDAL,Dallas CowboysDAL,No,NFC East,NFC East,Yes
+27,Kansas City ChiefsKC,28,Oakland RaidersOAK,10,2019,2,1,1,Kansas City ChiefsKC,No Favorite,No Favorite,AFC West,AFC West,Yes
+28,Chicago BearsCHI,16,Denver BroncosDEN,14,2019,2,0,0,Chicago BearsCHI,No Favorite,No Favorite,NFC North,AFC West,No
+29,New Orleans SaintsNO,9,Los Angeles RamsLA,27,2019,2,1,1,Los Angeles RamsLA,No Favorite,No Favorite,NFC South,NFC West,No
+30,Philadelphia EaglesPHI,20,Atlanta FalconsATL,24,2019,2,1,0,Atlanta FalconsATL,Philadelphia EaglesPHI,Yes,NFC East,NFC South,No
+31,Cleveland BrownsCLE,23,New York JetsNYJ,3,2019,2,0,0,Cleveland BrownsCLE,No Favorite,No Favorite,AFC North,AFC East,No
+32,Tennessee TitansTEN,7,Jacksonville JaguarsJAX,20,2019,3,1,0,Jacksonville JaguarsJAX,Tennessee TitansTEN,Yes,AFC South,AFC South,Yes
+33,Cincinnati BengalsCIN,17,Buffalo BillsBUF,21,2019,3,0,2,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC North,AFC East,No
+34,Miami DolphinsMIA,6,Dallas CowboysDAL,31,2019,3,0,2,Dallas CowboysDAL,Dallas CowboysDAL,No,AFC East,NFC East,No
+35,Denver BroncosDEN,16,Green Bay PackersGB,27,2019,3,0,2,Green Bay PackersGB,Green Bay PackersGB,No,AFC West,NFC North,No
+36,Atlanta FalconsATL,24,Indianapolis ColtsIND,27,2019,3,1,1,Indianapolis ColtsIND,No Favorite,No Favorite,NFC South,AFC South,No
+37,Baltimore RavensBAL,28,Kansas City ChiefsKC,33,2019,3,2,2,Kansas City ChiefsKC,No Favorite,No Favorite,AFC North,AFC West,No
+38,Oakland RaidersOAK,14,Minnesota VikingsMIN,34,2019,3,1,1,Minnesota VikingsMIN,No Favorite,No Favorite,AFC West,NFC North,No
+39,New York JetsNYJ,14,New England PatriotsNE,30,2019,3,0,2,New England PatriotsNE,New England PatriotsNE,No,AFC East,AFC East,Yes
+40,Detroit LionsDET,27,Philadelphia EaglesPHI,24,2019,3,1,1,Detroit LionsDET,No Favorite,No Favorite,NFC South,NFC East,No
+41,Carolina PanthersCAR,38,Arizona CardinalsARI,20,2019,3,0,0,Carolina PanthersCAR,No Favorite,No Favorite,NFC South,NFC West,No
+42,New York GiantsNYG,32,Tampa Bay BuccaneersTB,31,2019,3,0,1,New York GiantsNYG,Tampa Bay BuccaneersTB,Yes,NFC East,NFC South,No
+43,Houston TexansHOU,27,Los Angeles ChargersLAC,20,2019,3,1,1,Houston TexansHOU,No Favorite,No Favorite,AFC South,AFC West,No
+44,Pittsburgh SteelersPIT,20,San Francisco 49ersSF,24,2019,3,0,2,San Francisco 49ersSF,San Francisco 49ersSF,No,AFC North,NFC West,No
+45,New Orleans SaintsNO,33,Seattle SeahawksSEA,27,2019,3,1,2,New Orleans SaintsNO,Seattle SeahawksSEA,Yes,NFC South,NFC West,No
+46,Los Angeles RamsLA,20,Cleveland BrownsCLE,13,2019,3,2,1,Los Angeles RamsLA,Los Angeles RamsLA,No,NFC West,AFC North,No
+47,Chicago BearsCHI,31,Washington RedskinsWAS,15,2019,3,1,0,Chicago BearsCHI,Chicago BearsCHI,No,NFC North,NFC East,No
+48,Philadelphia EaglesPHI,34,Green Bay PackersGB,27,2019,4,1,3,Philadelphia EaglesPHI,Green Bay PackersGB,Yes,NFC East,NFC North,No
+49,Tennessee TitansTEN,24,Atlanta FalconsATL,10,2019,4,1,1,Tennessee TitansTEN,No Favorite,No Favorite,AFC South,NFC South,No
+50,Cleveland BrownsCLE,40,Baltimore RavensBAL,25,2019,4,1,2,Cleveland BrownsCLE,Baltimore RavensBAL,Yes,AFC North,AFC North,Yes
+51,New England PatriotsNE,16,Buffalo BillsBUF,10,2019,4,3,3,New England PatriotsNE,No Favorite,No Favorite,AFC East,AFC East,Yes
+52,Kansas City ChiefsKC,34,Detroit LionsDET,30,2019,4,3,2,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,NFC South,No
+53,Carolina PanthersCAR,16,Houston TexansHOU,10,2019,4,1,2,Carolina PanthersCAR,Houston TexansHOU,Yes,NFC South,AFC South,No
+54,Oakland RaidersOAK,31,Indianapolis ColtsIND,24,2019,4,1,2,Oakland RaidersOAK,Indianapolis ColtsIND,Yes,AFC West,AFC South,No
+55,Los Angeles ChargersLAC,30,Miami DolphinsMIA,10,2019,4,1,0,Los Angeles ChargersLAC,Los Angeles ChargersLAC,No,AFC West,AFC East,No
+56,Washington RedskinsWAS,3,New York GiantsNYG,24,2019,4,0,1,New York GiantsNYG,New York GiantsNYG,No,NFC East,NFC East,Yes
+57,Seattle SeahawksSEA,27,Arizona CardinalsARI,10,2019,4,2,0,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC West,NFC West,Yes
+58,Tampa Bay BuccaneersTB,55,Los Angeles RamsLA,40,2019,4,1,3,Tampa Bay BuccaneersTB,Los Angeles RamsLA,Yes,NFC South,NFC West,No
+59,Minnesota VikingsMIN,6,Chicago BearsCHI,16,2019,4,2,2,Chicago BearsCHI,No Favorite,No Favorite,NFC North,NFC North,Yes
+60,Jacksonville JaguarsJAX,26,Denver BroncosDEN,24,2019,4,1,0,Jacksonville JaguarsJAX,Jacksonville JaguarsJAX,No,AFC South,AFC West,No
+61,Dallas CowboysDAL,10,New Orleans SaintsNO,12,2019,4,3,2,New Orleans SaintsNO,Dallas CowboysDAL,Yes,NFC East,NFC South,No
+62,Cincinnati BengalsCIN,3,Pittsburgh SteelersPIT,27,2019,4,0,0,Pittsburgh SteelersPIT,No Favorite,No Favorite,AFC North,AFC North,Yes
+63,Los Angeles RamsLA,29,Seattle SeahawksSEA,30,2019,5,3,3,Seattle SeahawksSEA,No Favorite,No Favorite,NFC West,NFC West,Yes
+64,Jacksonville JaguarsJAX,27,Carolina PanthersCAR,34,2019,5,2,2,Carolina PanthersCAR,No Favorite,No Favorite,AFC South,NFC South,No
+65,Arizona CardinalsARI,26,Cincinnati BengalsCIN,23,2019,5,0,0,Arizona CardinalsARI,No Favorite,No Favorite,NFC West,AFC North,No
+66,Atlanta FalconsATL,32,Houston TexansHOU,53,2019,5,1,2,Houston TexansHOU,Houston TexansHOU,No,NFC South,AFC South,No
+67,Tampa Bay BuccaneersTB,24,New Orleans SaintsNO,31,2019,5,2,3,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,NFC South,Yes
+68,Minnesota VikingsMIN,28,New York GiantsNYG,10,2019,5,2,2,Minnesota VikingsMIN,No Favorite,No Favorite,NFC North,NFC East,No
+69,New York JetsNYJ,6,Philadelphia EaglesPHI,31,2019,5,0,2,Philadelphia EaglesPHI,Philadelphia EaglesPHI,No,AFC East,NFC East,No
+70,Baltimore RavensBAL,26,Pittsburgh SteelersPIT,23,2019,5,2,1,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,AFC North,Yes
+71,Buffalo BillsBUF,14,Tennessee TitansTEN,7,2019,5,3,2,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC East,AFC South,No
+72,New England PatriotsNE,33,Washington RedskinsWAS,7,2019,5,4,0,New England PatriotsNE,New England PatriotsNE,No,AFC East,NFC East,No
+73,Chicago BearsCHI,21,Oakland RaidersOAK,24,2019,5,3,2,Oakland RaidersOAK,Chicago BearsCHI,Yes,NFC North,AFC West,No
+74,Denver BroncosDEN,20,Los Angeles ChargersLAC,13,2019,5,0,2,Denver BroncosDEN,Los Angeles ChargersLAC,Yes,AFC West,AFC West,Yes
+75,Green Bay PackersGB,34,Dallas CowboysDAL,24,2019,5,3,3,Green Bay PackersGB,No Favorite,No Favorite,NFC North,NFC East,No
+76,Indianapolis ColtsIND,19,Kansas City ChiefsKC,13,2019,5,2,4,Indianapolis ColtsIND,Kansas City ChiefsKC,Yes,AFC South,AFC West,No
+77,Cleveland BrownsCLE,3,San Francisco 49ersSF,31,2019,5,2,3,San Francisco 49ersSF,San Francisco 49ersSF,No,AFC North,NFC West,No
+78,New York GiantsNYG,14,New England PatriotsNE,35,2019,6,2,5,New England PatriotsNE,New England PatriotsNE,No,NFC East,AFC East,No
+79,Carolina PanthersCAR,37,Tampa Bay BuccaneersTB,26,2019,6,3,2,Carolina PanthersCAR,Carolina PanthersCAR,No,NFC South,NFC South,Yes
+80,Cincinnati BengalsCIN,17,Baltimore RavensBAL,23,2019,6,0,3,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,AFC North,Yes
+81,Seattle SeahawksSEA,32,Cleveland BrownsCLE,28,2019,6,4,2,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC West,AFC North,No
+82,New Orleans SaintsNO,13,Jacksonville JaguarsJAX,6,2019,6,4,2,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,AFC South,No
+83,Houston TexansHOU,31,Kansas City ChiefsKC,24,2019,6,3,4,Houston TexansHOU,Kansas City ChiefsKC,Yes,AFC South,AFC West,No
+84,Washington RedskinsWAS,17,Miami DolphinsMIA,16,2019,6,0,0,Washington RedskinsWAS,No Favorite,No Favorite,NFC East,AFC East,No
+85,Philadelphia EaglesPHI,20,Minnesota VikingsMIN,38,2019,6,3,3,Minnesota VikingsMIN,No Favorite,No Favorite,NFC East,NFC North,No
+86,Atlanta FalconsATL,33,Arizona CardinalsARI,34,2019,6,1,1,Arizona CardinalsARI,No Favorite,No Favorite,NFC South,NFC West,No
+87,San Francisco 49ersSF,20,Los Angeles RamsLA,7,2019,6,4,3,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,NFC West,Yes
+88,Tennessee TitansTEN,0,Denver BroncosDEN,16,2019,6,2,1,Denver BroncosDEN,Tennessee TitansTEN,Yes,AFC South,AFC West,No
+89,Dallas CowboysDAL,22,New York JetsNYJ,24,2019,6,3,0,New York JetsNYJ,Dallas CowboysDAL,Yes,NFC East,AFC East,No
+90,Pittsburgh SteelersPIT,24,Los Angeles ChargersLAC,17,2019,6,1,2,Pittsburgh SteelersPIT,Los Angeles ChargersLAC,Yes,AFC North,AFC West,No
+91,Detroit LionsDET,22,Green Bay PackersGB,23,2019,6,2,4,Green Bay PackersGB,Green Bay PackersGB,No,NFC South,NFC North,No
+92,Kansas City ChiefsKC,30,Denver BroncosDEN,6,2019,7,4,2,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,AFC West,Yes
+93,Los Angeles RamsLA,37,Atlanta FalconsATL,10,2019,7,3,1,Los Angeles RamsLA,Los Angeles RamsLA,No,NFC West,NFC South,No
+94,Miami DolphinsMIA,21,Buffalo BillsBUF,31,2019,7,0,4,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC East,AFC East,Yes
+95,Jacksonville JaguarsJAX,27,Cincinnati BengalsCIN,17,2019,7,2,0,Jacksonville JaguarsJAX,Jacksonville JaguarsJAX,No,AFC South,AFC North,No
+96,Minnesota VikingsMIN,42,Detroit LionsDET,30,2019,7,4,2,Minnesota VikingsMIN,Minnesota VikingsMIN,No,NFC North,NFC South,No
+97,Oakland RaidersOAK,24,Green Bay PackersGB,42,2019,7,3,5,Green Bay PackersGB,Green Bay PackersGB,No,AFC West,NFC North,No
+98,Houston TexansHOU,23,Indianapolis ColtsIND,30,2019,7,4,3,Indianapolis ColtsIND,Houston TexansHOU,Yes,AFC South,AFC South,Yes
+99,Arizona CardinalsARI,27,New York GiantsNYG,21,2019,7,2,2,Arizona CardinalsARI,No Favorite,No Favorite,NFC West,NFC East,No
+100,San Francisco 49ersSF,9,Washington RedskinsWAS,0,2019,7,5,1,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,NFC East,No
+101,Los Angeles ChargersLAC,20,Tennessee TitansTEN,23,2019,7,2,2,Tennessee TitansTEN,No Favorite,No Favorite,AFC West,AFC South,No
+102,New Orleans SaintsNO,36,Chicago BearsCHI,25,2019,7,5,3,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,NFC North,No
+103,Baltimore RavensBAL,30,Seattle SeahawksSEA,16,2019,7,4,5,Baltimore RavensBAL,Seattle SeahawksSEA,Yes,AFC North,NFC West,No
+104,Philadelphia EaglesPHI,10,Dallas CowboysDAL,37,2019,7,3,3,Dallas CowboysDAL,No Favorite,No Favorite,NFC East,NFC East,Yes
+105,New England PatriotsNE,33,New York JetsNYJ,0,2019,7,6,1,New England PatriotsNE,New England PatriotsNE,No,AFC East,AFC East,Yes
+106,Washington RedskinsWAS,9,Minnesota VikingsMIN,19,2019,8,1,5,Minnesota VikingsMIN,Minnesota VikingsMIN,No,NFC East,NFC North,No
+107,Seattle SeahawksSEA,27,Atlanta FalconsATL,20,2019,8,5,1,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC West,NFC South,No
+108,Philadelphia EaglesPHI,31,Buffalo BillsBUF,13,2019,8,3,5,Philadelphia EaglesPHI,Buffalo BillsBUF,Yes,NFC East,AFC East,No
+109,Los Angeles ChargersLAC,17,Chicago BearsCHI,16,2019,8,2,3,Los Angeles ChargersLAC,Chicago BearsCHI,Yes,AFC West,NFC North,No
+110,New York GiantsNYG,26,Detroit LionsDET,31,2019,8,2,2,Detroit LionsDET,No Favorite,No Favorite,NFC East,NFC South,No
+111,New York JetsNYJ,15,Jacksonville JaguarsJAX,29,2019,8,1,3,Jacksonville JaguarsJAX,Jacksonville JaguarsJAX,No,AFC East,AFC South,No
+112,Arizona CardinalsARI,9,New Orleans SaintsNO,31,2019,8,3,6,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC West,NFC South,No
+113,Tampa Bay BuccaneersTB,23,Tennessee TitansTEN,27,2019,8,2,3,Tennessee TitansTEN,Tennessee TitansTEN,No,NFC South,AFC South,No
+114,Denver BroncosDEN,13,Indianapolis ColtsIND,15,2019,8,2,4,Indianapolis ColtsIND,Indianapolis ColtsIND,No,AFC West,AFC South,No
+115,Cincinnati BengalsCIN,10,Los Angeles RamsLA,24,2019,8,0,4,Los Angeles RamsLA,Los Angeles RamsLA,No,AFC North,NFC West,No
+116,Carolina PanthersCAR,13,San Francisco 49ersSF,51,2019,8,4,6,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC South,NFC West,No
+117,Oakland RaidersOAK,24,Houston TexansHOU,27,2019,8,3,4,Houston TexansHOU,Houston TexansHOU,No,AFC West,AFC South,No
+118,Cleveland BrownsCLE,13,New England PatriotsNE,27,2019,8,2,7,New England PatriotsNE,New England PatriotsNE,No,AFC North,AFC East,No
+119,Green Bay PackersGB,31,Kansas City ChiefsKC,24,2019,8,6,5,Green Bay PackersGB,Green Bay PackersGB,No,NFC North,AFC West,No
+120,Miami DolphinsMIA,14,Pittsburgh SteelersPIT,27,2019,8,0,2,Pittsburgh SteelersPIT,Pittsburgh SteelersPIT,No,AFC East,AFC North,No
+121,San Francisco 49ersSF,28,Arizona CardinalsARI,25,2019,9,7,3,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,NFC West,Yes
+122,Houston TexansHOU,26,Jacksonville JaguarsJAX,3,2019,9,5,4,Houston TexansHOU,Houston TexansHOU,No,AFC South,AFC South,Yes
+123,Washington RedskinsWAS,9,Buffalo BillsBUF,24,2019,9,1,5,Buffalo BillsBUF,Buffalo BillsBUF,No,NFC East,AFC East,No
+124,Tennessee TitansTEN,20,Carolina PanthersCAR,30,2019,9,4,4,Carolina PanthersCAR,No Favorite,No Favorite,AFC South,NFC South,No
+125,Minnesota VikingsMIN,23,Kansas City ChiefsKC,26,2019,9,6,5,Kansas City ChiefsKC,Minnesota VikingsMIN,Yes,NFC North,AFC West,No
+126,New York JetsNYJ,18,Miami DolphinsMIA,26,2019,9,1,0,Miami DolphinsMIA,New York JetsNYJ,Yes,AFC East,AFC East,Yes
+127,Chicago BearsCHI,14,Philadelphia EaglesPHI,22,2019,9,3,4,Philadelphia EaglesPHI,Philadelphia EaglesPHI,No,NFC North,NFC East,No
+128,Indianapolis ColtsIND,24,Pittsburgh SteelersPIT,26,2019,9,5,3,Pittsburgh SteelersPIT,Indianapolis ColtsIND,Yes,AFC South,AFC North,No
+129,Detroit LionsDET,24,Oakland RaidersOAK,31,2019,9,3,3,Oakland RaidersOAK,No Favorite,No Favorite,NFC South,AFC West,No
+130,Tampa Bay BuccaneersTB,34,Seattle SeahawksSEA,40,2019,9,2,6,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC South,NFC West,No
+131,Cleveland BrownsCLE,19,Denver BroncosDEN,24,2019,9,2,2,Denver BroncosDEN,No Favorite,No Favorite,AFC North,AFC West,No
+132,Green Bay PackersGB,11,Los Angeles ChargersLAC,26,2019,9,7,3,Los Angeles ChargersLAC,Green Bay PackersGB,Yes,NFC North,AFC West,No
+133,New England PatriotsNE,20,Baltimore RavensBAL,37,2019,9,8,5,Baltimore RavensBAL,New England PatriotsNE,Yes,AFC East,AFC North,No
+134,Dallas CowboysDAL,37,New York GiantsNYG,18,2019,9,4,2,Dallas CowboysDAL,Dallas CowboysDAL,No,NFC East,NFC East,Yes
+135,Los Angeles ChargersLAC,24,Oakland RaidersOAK,26,2019,10,4,4,Oakland RaidersOAK,No Favorite,No Favorite,AFC West,AFC West,Yes
+136,Detroit LionsDET,13,Chicago BearsCHI,20,2019,10,3,3,Chicago BearsCHI,No Favorite,No Favorite,NFC South,NFC North,No
+137,Baltimore RavensBAL,49,Cincinnati BengalsCIN,13,2019,10,6,0,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,AFC North,Yes
+138,Buffalo BillsBUF,16,Cleveland BrownsCLE,19,2019,10,6,2,Cleveland BrownsCLE,Buffalo BillsBUF,Yes,AFC East,AFC North,No
+139,Atlanta FalconsATL,26,New Orleans SaintsNO,9,2019,10,1,7,Atlanta FalconsATL,New Orleans SaintsNO,Yes,NFC South,NFC South,Yes
+140,New York GiantsNYG,27,New York JetsNYJ,34,2019,10,2,1,New York JetsNYJ,New York GiantsNYG,Yes,NFC East,AFC East,No
+141,Arizona CardinalsARI,27,Tampa Bay BuccaneersTB,30,2019,10,3,2,Tampa Bay BuccaneersTB,Arizona CardinalsARI,Yes,NFC West,NFC South,No
+142,Kansas City ChiefsKC,32,Tennessee TitansTEN,35,2019,10,6,4,Tennessee TitansTEN,Kansas City ChiefsKC,Yes,AFC West,AFC South,No
+143,Miami DolphinsMIA,16,Indianapolis ColtsIND,12,2019,10,1,5,Miami DolphinsMIA,Indianapolis ColtsIND,Yes,AFC East,AFC South,No
+144,Carolina PanthersCAR,16,Green Bay PackersGB,24,2019,10,5,7,Green Bay PackersGB,Green Bay PackersGB,No,NFC South,NFC North,No
+145,Los Angeles RamsLA,12,Pittsburgh SteelersPIT,17,2019,10,5,4,Pittsburgh SteelersPIT,Los Angeles RamsLA,Yes,NFC West,AFC North,No
+146,Minnesota VikingsMIN,28,Dallas CowboysDAL,24,2019,10,6,5,Minnesota VikingsMIN,Minnesota VikingsMIN,No,NFC North,NFC East,No
+147,Seattle SeahawksSEA,27,San Francisco 49ersSF,24,2019,10,7,8,Seattle SeahawksSEA,San Francisco 49ersSF,Yes,NFC West,NFC West,Yes
+148,Pittsburgh SteelersPIT,7,Cleveland BrownsCLE,21,2019,11,5,3,Cleveland BrownsCLE,Pittsburgh SteelersPIT,Yes,AFC North,AFC North,Yes
+149,Houston TexansHOU,7,Baltimore RavensBAL,41,2019,11,6,7,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC South,AFC North,No
+150,Atlanta FalconsATL,29,Carolina PanthersCAR,3,2019,11,2,5,Atlanta FalconsATL,Carolina PanthersCAR,Yes,NFC South,NFC South,Yes
+151,Dallas CowboysDAL,35,Detroit LionsDET,27,2019,11,5,3,Dallas CowboysDAL,Dallas CowboysDAL,No,NFC East,NFC South,No
+152,Jacksonville JaguarsJAX,13,Indianapolis ColtsIND,33,2019,11,4,5,Indianapolis ColtsIND,Indianapolis ColtsIND,No,AFC South,AFC South,Yes
+153,Buffalo BillsBUF,37,Miami DolphinsMIA,20,2019,11,6,2,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC East,AFC East,Yes
+154,Denver BroncosDEN,23,Minnesota VikingsMIN,27,2019,11,3,7,Minnesota VikingsMIN,Minnesota VikingsMIN,No,AFC West,NFC North,No
+155,New Orleans SaintsNO,34,Tampa Bay BuccaneersTB,17,2019,11,7,3,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,NFC South,Yes
+156,New York JetsNYJ,34,Washington RedskinsWAS,17,2019,11,2,1,New York JetsNYJ,New York JetsNYJ,No,AFC East,NFC East,No
+157,Arizona CardinalsARI,26,San Francisco 49ersSF,36,2019,11,3,8,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,NFC West,Yes
+158,Cincinnati BengalsCIN,10,Oakland RaidersOAK,17,2019,11,0,5,Oakland RaidersOAK,Oakland RaidersOAK,No,AFC North,AFC West,No
+159,New England PatriotsNE,17,Philadelphia EaglesPHI,10,2019,11,8,5,New England PatriotsNE,New England PatriotsNE,No,AFC East,NFC East,No
+160,Chicago BearsCHI,7,Los Angeles RamsLA,17,2019,11,4,5,Los Angeles RamsLA,Los Angeles RamsLA,No,NFC North,NFC West,No
+161,Kansas City ChiefsKC,24,Los Angeles ChargersLAC,17,2019,11,6,4,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,AFC West,Yes
+162,Indianapolis ColtsIND,17,Houston TexansHOU,20,2019,12,6,6,Houston TexansHOU,No Favorite,No Favorite,AFC South,AFC South,Yes
+163,Tampa Bay BuccaneersTB,35,Atlanta FalconsATL,22,2019,12,3,3,Tampa Bay BuccaneersTB,No Favorite,No Favorite,NFC South,NFC South,Yes
+164,Denver BroncosDEN,3,Buffalo BillsBUF,20,2019,12,3,7,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC West,AFC East,No
+165,New York GiantsNYG,14,Chicago BearsCHI,19,2019,12,2,4,Chicago BearsCHI,Chicago BearsCHI,No,NFC East,NFC North,No
+166,Pittsburgh SteelersPIT,16,Cincinnati BengalsCIN,10,2019,12,5,0,Pittsburgh SteelersPIT,Pittsburgh SteelersPIT,No,AFC North,AFC North,Yes
+167,Miami DolphinsMIA,24,Cleveland BrownsCLE,41,2019,12,2,4,Cleveland BrownsCLE,Cleveland BrownsCLE,No,AFC East,AFC North,No
+168,Carolina PanthersCAR,31,New Orleans SaintsNO,34,2019,12,5,8,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,NFC South,Yes
+169,Oakland RaidersOAK,3,New York JetsNYJ,34,2019,12,6,3,New York JetsNYJ,Oakland RaidersOAK,Yes,AFC West,AFC East,No
+170,Detroit LionsDET,16,Washington RedskinsWAS,19,2019,12,3,1,Washington RedskinsWAS,Detroit LionsDET,Yes,NFC South,NFC East,No
+171,Seattle SeahawksSEA,17,Philadelphia EaglesPHI,9,2019,12,8,5,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC West,NFC East,No
+172,Jacksonville JaguarsJAX,20,Tennessee TitansTEN,42,2019,12,4,5,Tennessee TitansTEN,Tennessee TitansTEN,No,AFC South,AFC South,Yes
+173,Dallas CowboysDAL,9,New England PatriotsNE,13,2019,12,6,9,New England PatriotsNE,New England PatriotsNE,No,NFC East,AFC East,No
+174,Green Bay PackersGB,8,San Francisco 49ersSF,37,2019,12,8,9,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC North,NFC West,No
+175,Baltimore RavensBAL,45,Los Angeles RamsLA,6,2019,12,8,6,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,NFC West,No
+176,Chicago BearsCHI,24,Detroit LionsDET,20,2019,13,5,3,Chicago BearsCHI,Chicago BearsCHI,No,NFC North,NFC South,No
+177,Buffalo BillsBUF,26,Dallas CowboysDAL,15,2019,13,8,6,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC East,NFC East,No
+178,New Orleans SaintsNO,26,Atlanta FalconsATL,18,2019,13,9,3,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,NFC South,Yes
+179,San Francisco 49ersSF,17,Baltimore RavensBAL,20,2019,13,10,9,Baltimore RavensBAL,San Francisco 49ersSF,Yes,NFC West,AFC North,No
+180,Washington RedskinsWAS,29,Carolina PanthersCAR,21,2019,13,2,5,Washington RedskinsWAS,Carolina PanthersCAR,Yes,NFC East,NFC South,No
+181,New York JetsNYJ,6,Cincinnati BengalsCIN,22,2019,13,4,0,Cincinnati BengalsCIN,New York JetsNYJ,Yes,AFC East,AFC North,No
+182,Tennessee TitansTEN,31,Indianapolis ColtsIND,17,2019,13,6,6,Tennessee TitansTEN,No Favorite,No Favorite,AFC South,AFC South,Yes
+183,Tampa Bay BuccaneersTB,28,Jacksonville JaguarsJAX,11,2019,13,4,4,Tampa Bay BuccaneersTB,No Favorite,No Favorite,NFC South,AFC South,No
+184,Philadelphia EaglesPHI,31,Miami DolphinsMIA,37,2019,13,5,2,Miami DolphinsMIA,Philadelphia EaglesPHI,Yes,NFC East,AFC East,No
+185,Green Bay PackersGB,31,New York GiantsNYG,13,2019,13,8,2,Green Bay PackersGB,Green Bay PackersGB,No,NFC North,NFC East,No
+186,Cleveland BrownsCLE,13,Pittsburgh SteelersPIT,20,2019,13,5,6,Pittsburgh SteelersPIT,Pittsburgh SteelersPIT,No,AFC North,AFC North,Yes
+187,Los Angeles RamsLA,34,Arizona CardinalsARI,7,2019,13,6,3,Los Angeles RamsLA,Los Angeles RamsLA,No,NFC West,NFC West,Yes
+188,Oakland RaidersOAK,9,Kansas City ChiefsKC,40,2019,13,6,7,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,AFC West,Yes
+189,Los Angeles ChargersLAC,20,Denver BroncosDEN,23,2019,13,4,3,Denver BroncosDEN,Los Angeles ChargersLAC,Yes,AFC West,AFC West,Yes
+190,New England PatriotsNE,22,Houston TexansHOU,28,2019,13,10,7,Houston TexansHOU,New England PatriotsNE,Yes,AFC East,AFC South,No
+191,Minnesota VikingsMIN,30,Seattle SeahawksSEA,37,2019,13,8,9,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC North,NFC West,No
+192,Dallas CowboysDAL,24,Chicago BearsCHI,31,2019,14,6,6,Chicago BearsCHI,No Favorite,No Favorite,NFC East,NFC North,No
+193,Carolina PanthersCAR,20,Atlanta FalconsATL,40,2019,14,5,3,Atlanta FalconsATL,Carolina PanthersCAR,Yes,NFC South,NFC South,Yes
+194,Baltimore RavensBAL,24,Buffalo BillsBUF,17,2019,14,10,9,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,AFC East,No
+195,Cincinnati BengalsCIN,19,Cleveland BrownsCLE,27,2019,14,1,5,Cleveland BrownsCLE,Cleveland BrownsCLE,No,AFC North,AFC North,Yes
+196,Washington RedskinsWAS,15,Green Bay PackersGB,20,2019,14,3,9,Green Bay PackersGB,Green Bay PackersGB,No,NFC East,NFC North,No
+197,Denver BroncosDEN,38,Houston TexansHOU,24,2019,14,4,8,Denver BroncosDEN,Houston TexansHOU,Yes,AFC West,AFC South,No
+198,Detroit LionsDET,7,Minnesota VikingsMIN,20,2019,14,3,8,Minnesota VikingsMIN,Minnesota VikingsMIN,No,NFC South,NFC North,No
+199,San Francisco 49ersSF,48,New Orleans SaintsNO,46,2019,14,10,10,San Francisco 49ersSF,No Favorite,No Favorite,NFC West,NFC South,No
+200,Miami DolphinsMIA,21,New York JetsNYJ,22,2019,14,3,4,New York JetsNYJ,New York JetsNYJ,No,AFC East,AFC East,Yes
+201,Indianapolis ColtsIND,35,Tampa Bay BuccaneersTB,38,2019,14,6,5,Tampa Bay BuccaneersTB,Indianapolis ColtsIND,Yes,AFC South,NFC South,No
+202,Los Angeles ChargersLAC,45,Jacksonville JaguarsJAX,10,2019,14,4,4,Los Angeles ChargersLAC,No Favorite,No Favorite,AFC West,AFC South,No
+203,Pittsburgh SteelersPIT,23,Arizona CardinalsARI,17,2019,14,7,3,Pittsburgh SteelersPIT,Pittsburgh SteelersPIT,No,AFC North,NFC West,No
+204,Kansas City ChiefsKC,23,New England PatriotsNE,16,2019,14,8,10,Kansas City ChiefsKC,New England PatriotsNE,Yes,AFC West,AFC East,No
+205,Tennessee TitansTEN,42,Oakland RaidersOAK,21,2019,14,7,6,Tennessee TitansTEN,Tennessee TitansTEN,No,AFC South,AFC West,No
+206,Seattle SeahawksSEA,12,Los Angeles RamsLA,28,2019,14,10,7,Los Angeles RamsLA,Seattle SeahawksSEA,Yes,NFC West,NFC West,Yes
+207,New York GiantsNYG,17,Philadelphia EaglesPHI,23,2019,14,2,5,Philadelphia EaglesPHI,Philadelphia EaglesPHI,No,NFC East,NFC East,Yes
+208,New York JetsNYJ,21,Baltimore RavensBAL,42,2019,15,5,11,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC East,AFC North,No
+209,Seattle SeahawksSEA,30,Carolina PanthersCAR,24,2019,15,10,5,Seattle SeahawksSEA,Seattle SeahawksSEA,No,NFC West,NFC South,No
+210,New England PatriotsNE,34,Cincinnati BengalsCIN,13,2019,15,10,1,New England PatriotsNE,New England PatriotsNE,No,AFC East,AFC North,No
+211,Tampa Bay BuccaneersTB,38,Detroit LionsDET,17,2019,15,6,3,Tampa Bay BuccaneersTB,Tampa Bay BuccaneersTB,No,NFC South,NFC South,Yes
+212,Chicago BearsCHI,13,Green Bay PackersGB,21,2019,15,7,10,Green Bay PackersGB,Green Bay PackersGB,No,NFC North,NFC North,Yes
+213,Denver BroncosDEN,3,Kansas City ChiefsKC,23,2019,15,5,9,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,AFC West,Yes
+214,Miami DolphinsMIA,20,New York GiantsNYG,36,2019,15,3,2,New York GiantsNYG,Miami DolphinsMIA,Yes,AFC East,NFC East,No
+215,Houston TexansHOU,24,Tennessee TitansTEN,21,2019,15,8,8,Houston TexansHOU,No Favorite,No Favorite,AFC South,AFC South,Yes
+216,Philadelphia EaglesPHI,37,Washington RedskinsWAS,27,2019,15,6,3,Philadelphia EaglesPHI,Philadelphia EaglesPHI,No,NFC East,NFC East,Yes
+217,Cleveland BrownsCLE,24,Arizona CardinalsARI,38,2019,15,6,3,Arizona CardinalsARI,Cleveland BrownsCLE,Yes,AFC North,NFC West,No
+218,Jacksonville JaguarsJAX,20,Oakland RaidersOAK,16,2019,15,4,6,Jacksonville JaguarsJAX,Oakland RaidersOAK,Yes,AFC South,AFC West,No
+219,Minnesota VikingsMIN,39,Los Angeles ChargersLAC,10,2019,15,9,5,Minnesota VikingsMIN,Minnesota VikingsMIN,No,NFC North,AFC West,No
+220,Los Angeles RamsLA,21,Dallas CowboysDAL,44,2019,15,8,6,Dallas CowboysDAL,Los Angeles RamsLA,Yes,NFC West,NFC East,No
+221,Atlanta FalconsATL,29,San Francisco 49ersSF,22,2019,15,4,11,Atlanta FalconsATL,San Francisco 49ersSF,Yes,NFC South,NFC West,No
+222,Buffalo BillsBUF,17,Pittsburgh SteelersPIT,10,2019,15,9,8,Buffalo BillsBUF,Buffalo BillsBUF,No,AFC East,AFC North,No
+223,Indianapolis ColtsIND,7,New Orleans SaintsNO,34,2019,15,6,10,New Orleans SaintsNO,New Orleans SaintsNO,No,AFC South,NFC South,No
+224,Houston TexansHOU,23,Tampa Bay BuccaneersTB,20,2019,16,9,7,Houston TexansHOU,Houston TexansHOU,No,AFC South,NFC South,No
+225,Buffalo BillsBUF,17,New England PatriotsNE,24,2019,16,10,11,New England PatriotsNE,New England PatriotsNE,No,AFC East,AFC East,Yes
+226,Los Angeles RamsLA,31,San Francisco 49ersSF,34,2019,16,8,11,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,NFC West,Yes
+227,Jacksonville JaguarsJAX,12,Atlanta FalconsATL,24,2019,16,5,5,Atlanta FalconsATL,No Favorite,No Favorite,AFC South,NFC South,No
+228,Baltimore RavensBAL,31,Cleveland BrownsCLE,15,2019,16,12,6,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,AFC North,Yes
+229,Carolina PanthersCAR,6,Indianapolis ColtsIND,38,2019,16,5,6,Indianapolis ColtsIND,Indianapolis ColtsIND,No,NFC South,AFC South,No
+230,Cincinnati BengalsCIN,35,Miami DolphinsMIA,38,2019,16,1,3,Miami DolphinsMIA,Miami DolphinsMIA,No,AFC North,AFC East,No
+231,Pittsburgh SteelersPIT,10,New York JetsNYJ,16,2019,16,8,5,New York JetsNYJ,Pittsburgh SteelersPIT,Yes,AFC North,AFC East,No
+232,New Orleans SaintsNO,38,Tennessee TitansTEN,28,2019,16,11,8,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,AFC South,No
+233,New York GiantsNYG,41,Washington RedskinsWAS,35,2019,16,3,3,New York GiantsNYG,No Favorite,No Favorite,NFC East,NFC East,Yes
+234,Detroit LionsDET,17,Denver BroncosDEN,27,2019,16,3,5,Denver BroncosDEN,Denver BroncosDEN,No,NFC South,AFC West,No
+235,Oakland RaidersOAK,24,Los Angeles ChargersLAC,17,2019,16,6,5,Oakland RaidersOAK,Oakland RaidersOAK,No,AFC West,AFC West,Yes
+236,Dallas CowboysDAL,9,Philadelphia EaglesPHI,17,2019,16,7,7,Philadelphia EaglesPHI,No Favorite,No Favorite,NFC East,NFC East,Yes
+237,Arizona CardinalsARI,27,Seattle SeahawksSEA,13,2019,16,4,11,Arizona CardinalsARI,Seattle SeahawksSEA,Yes,NFC West,NFC West,Yes
+238,Kansas City ChiefsKC,26,Chicago BearsCHI,3,2019,16,10,7,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,NFC North,No
+239,Green Bay PackersGB,23,Minnesota VikingsMIN,10,2019,16,11,10,Green Bay PackersGB,Green Bay PackersGB,No,NFC North,NFC North,Yes
+240,New York JetsNYJ,13,Buffalo BillsBUF,6,2019,17,6,10,New York JetsNYJ,Buffalo BillsBUF,Yes,AFC East,AFC East,Yes
+241,New Orleans SaintsNO,42,Carolina PanthersCAR,10,2019,17,12,5,New Orleans SaintsNO,New Orleans SaintsNO,No,NFC South,NFC South,Yes
+242,Cleveland BrownsCLE,23,Cincinnati BengalsCIN,33,2019,17,6,1,Cincinnati BengalsCIN,Cleveland BrownsCLE,Yes,AFC North,AFC North,Yes
+243,Green Bay PackersGB,23,Detroit LionsDET,20,2019,17,12,3,Green Bay PackersGB,Green Bay PackersGB,No,NFC North,NFC South,No
+244,Los Angeles ChargersLAC,21,Kansas City ChiefsKC,31,2019,17,5,11,Kansas City ChiefsKC,Kansas City ChiefsKC,No,AFC West,AFC West,Yes
+245,Chicago BearsCHI,21,Minnesota VikingsMIN,19,2019,17,7,10,Chicago BearsCHI,Minnesota VikingsMIN,Yes,NFC North,NFC North,Yes
+246,Miami DolphinsMIA,27,New England PatriotsNE,24,2019,17,4,12,Miami DolphinsMIA,New England PatriotsNE,Yes,AFC East,AFC East,Yes
+247,Atlanta FalconsATL,28,Tampa Bay BuccaneersTB,22,2019,17,6,7,Atlanta FalconsATL,Tampa Bay BuccaneersTB,Yes,NFC South,NFC South,Yes
+248,Pittsburgh SteelersPIT,10,Baltimore RavensBAL,28,2019,17,8,13,Baltimore RavensBAL,Baltimore RavensBAL,No,AFC North,AFC North,Yes
+249,Washington RedskinsWAS,16,Dallas CowboysDAL,47,2019,17,3,7,Dallas CowboysDAL,Dallas CowboysDAL,No,NFC East,NFC East,Yes
+250,Tennessee TitansTEN,35,Houston TexansHOU,14,2019,17,8,10,Tennessee TitansTEN,Houston TexansHOU,Yes,AFC South,AFC South,Yes
+251,Indianapolis ColtsIND,20,Jacksonville JaguarsJAX,38,2019,17,7,5,Jacksonville JaguarsJAX,Indianapolis ColtsIND,Yes,AFC South,AFC South,Yes
+252,Philadelphia EaglesPHI,34,New York GiantsNYG,17,2019,17,8,4,Philadelphia EaglesPHI,Philadelphia EaglesPHI,No,NFC East,NFC East,Yes
+253,Oakland RaidersOAK,15,Denver BroncosDEN,16,2019,17,7,6,Denver BroncosDEN,Oakland RaidersOAK,Yes,AFC West,AFC West,Yes
+254,Arizona CardinalsARI,24,Los Angeles RamsLA,31,2019,17,5,8,Los Angeles RamsLA,Los Angeles RamsLA,No,NFC West,NFC West,Yes
+255,San Francisco 49ersSF,26,Seattle SeahawksSEA,21,2019,17,12,11,San Francisco 49ersSF,San Francisco 49ersSF,No,NFC West,NFC West,Yes
